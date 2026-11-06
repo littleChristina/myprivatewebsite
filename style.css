@@ -8,7 +8,7 @@ body {
     padding: 80px 24px;
     color: #1a1a18;
     font: 16px/1.7 -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
-    background-image: /*linear-gradient(rgba(251, 251, 250, .85), rgba(251, 251, 250, .85)),*/ url("images/background.png");
+    background-image: /*linear-gradient(rgba(251, 251, 250, .85), rgba(251, 251, 250, .85)),*/ url("images/background.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
